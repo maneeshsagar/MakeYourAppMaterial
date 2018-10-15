@@ -25,11 +25,11 @@
                 {
                     "source": "C:\\Users\\maneeshsagar\\Desktop\\MakeYourAppMaterial\\XYZReader\\src\\main\\res\\values\\strings.xml",
                     "from": {
-                        "startLines": "5,6,7,2,9,3",
+                        "startLines": "6,7,8,3,10,4",
                         "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "141,193,247,19,297,68",
+                        "startOffsets": "181,233,287,59,337,108",
                         "endColumns": "50,52,46,47,33,69",
-                        "endOffsets": "187,241,289,62,326,133"
+                        "endOffsets": "227,281,329,102,366,173"
                     },
                     "to": {
                         "startLines": "714,715,716,717,728,729",
@@ -42,12 +42,12 @@
                 {
                     "source": "C:\\Users\\maneeshsagar\\Desktop\\MakeYourAppMaterial\\XYZReader\\src\\main\\res\\values\\styles.xml",
                     "from": {
-                        "startLines": "19,45,30,25,40,35",
+                        "startLines": "4,30,15,10,25,20",
                         "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "725,1950,1256,1015,1713,1477",
-                        "endLines": "23,47,33,28,43,38",
+                        "startOffsets": "61,1286,592,351,1049,813",
+                        "endLines": "8,32,18,13,28,23",
                         "endColumns": "12,12,12,12,12,12",
-                        "endOffsets": "1007,2076,1469,1248,1942,1705"
+                        "endOffsets": "343,1412,805,584,1278,1041"
                     },
                     "to": {
                         "startLines": "2139,2144,2339,2343,2347,2351",
@@ -78,12 +78,12 @@
                 {
                     "source": "C:\\Users\\maneeshsagar\\Desktop\\MakeYourAppMaterial\\XYZReader\\src\\main\\res\\values\\attrs.xml",
                     "from": {
-                        "startLines": "1",
+                        "startLines": "2",
                         "startColumns": "4",
-                        "startOffsets": "17",
-                        "endLines": "3",
+                        "startOffsets": "19",
+                        "endLines": "4",
                         "endColumns": "24",
-                        "endOffsets": "157"
+                        "endOffsets": "159"
                     },
                     "to": {
                         "startLines": "311",
@@ -205,11 +205,11 @@
                 {
                     "source": "C:\\Users\\maneeshsagar\\Desktop\\MakeYourAppMaterial\\XYZReader\\src\\main\\res\\values\\colors.xml",
                     "from": {
-                        "startLines": "29,27,28,23,18,22,20,21",
+                        "startLines": "14,12,13,8,3,7,5,6",
                         "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "1177,1076,1124,926,723,878,775,824",
+                        "startOffsets": "475,374,422,224,21,176,73,122",
                         "endColumns": "47,46,51,42,48,46,47,52",
-                        "endOffsets": "1220,1118,1171,964,767,920,818,872"
+                        "endOffsets": "518,416,469,262,65,218,116,170"
                     },
                     "to": {
                         "startLines": "35,36,37,56,72,91,92,93",

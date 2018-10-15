@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Mon Oct 15 22:48:45 IST 2018
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\maneeshsagar\\Desktop\\MakeYourAppMaterial\\XYZReader\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+0.path=Rosario-Regular.ttf
+0.set=ASSET
+count=1
