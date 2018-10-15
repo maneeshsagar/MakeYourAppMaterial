@@ -1,0 +1,172 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\maneeshsagar\Desktop\MakeYourAppMaterial\XYZReader\src\main\AndroidManifest.xml:1:1-48:12
+INJECTED from C:\Users\maneeshsagar\Desktop\MakeYourAppMaterial\XYZReader\src\main\AndroidManifest.xml:1:1-48:12
+INJECTED from C:\Users\maneeshsagar\Desktop\MakeYourAppMaterial\XYZReader\src\main\AndroidManifest.xml:1:1-48:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\maneeshsagar\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\1e70047b5c49de43a9bd0283271b784a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v13:27.1.1] C:\Users\maneeshsagar\.gradle\caches\transforms-1\files-1.1\support-v13-27.1.1.aar\00b9786f6955851a1f4d5e0626db6c96\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\maneeshsagar\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\f2dc0ef36a8d62313bb92be17f645356\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\maneeshsagar\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\85e248dcc7ec323582f674571436a133\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:palette-v7:27.1.1] C:\Users\maneeshsagar\.gradle\caches\transforms-1\files-1.1\palette-v7-27.1.1.aar\1df83235ed74e3842dc7adaa541378f6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\maneeshsagar\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\daba434b3cd81298cde3c06210159167\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\maneeshsagar\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\261316d5bf4fd3787ea7ccdecbe73c36\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\maneeshsagar\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\9ec6c5e084ab9b7bf4250b3a20e45158\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\maneeshsagar\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\5617b0f084d81885924175bd607ee405\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\maneeshsagar\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\d18f5bfc912de509a9f572d309ec7150\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\maneeshsagar\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\76fca40abcd232f36011f6006d86dabb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\maneeshsagar\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\8188f3865092946a1cc1f958819ecb4f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\maneeshsagar\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\af9d0af8a092dba0bfc9493ecb704f44\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\maneeshsagar\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\8bd569aef9645ec9e5bda9a9e798b81f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\maneeshsagar\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\2ca4cb9b7c957e54033c42c9c7c81242\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\maneeshsagar\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7363b69a85ceb2cf766284837fcd4cd7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\maneeshsagar\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\02308b1a72d4964bd382590df25e56ff\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\maneeshsagar\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\e07fc0fd548f63d0ff3b38bac9b9ffbf\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\maneeshsagar\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b1b51ae4b430a6e0bf5a060015c425e5\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\maneeshsagar\Desktop\MakeYourAppMaterial\XYZReader\src\main\AndroidManifest.xml:1:1-48:12
+INJECTED from C:\Users\maneeshsagar\Desktop\MakeYourAppMaterial\XYZReader\src\main\AndroidManifest.xml:1:1-48:12
+	package
+		ADDED from C:\Users\maneeshsagar\Desktop\MakeYourAppMaterial\XYZReader\src\main\AndroidManifest.xml:2:5-36
+	android:versionName
+		ADDED from C:\Users\maneeshsagar\Desktop\MakeYourAppMaterial\XYZReader\src\main\AndroidManifest.xml:4:5-30
+		INJECTED from C:\Users\maneeshsagar\Desktop\MakeYourAppMaterial\XYZReader\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\maneeshsagar\Desktop\MakeYourAppMaterial\XYZReader\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\maneeshsagar\Desktop\MakeYourAppMaterial\XYZReader\src\main\AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from C:\Users\maneeshsagar\Desktop\MakeYourAppMaterial\XYZReader\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from C:\Users\maneeshsagar\Desktop\MakeYourAppMaterial\XYZReader\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\maneeshsagar\Desktop\MakeYourAppMaterial\XYZReader\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\maneeshsagar\Desktop\MakeYourAppMaterial\XYZReader\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from C:\Users\maneeshsagar\Desktop\MakeYourAppMaterial\XYZReader\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\maneeshsagar\Desktop\MakeYourAppMaterial\XYZReader\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from C:\Users\maneeshsagar\Desktop\MakeYourAppMaterial\XYZReader\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.BROADCAST_STICKY
+ADDED from C:\Users\maneeshsagar\Desktop\MakeYourAppMaterial\XYZReader\src\main\AndroidManifest.xml:8:5-75
+	android:name
+		ADDED from C:\Users\maneeshsagar\Desktop\MakeYourAppMaterial\XYZReader\src\main\AndroidManifest.xml:8:22-72
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\maneeshsagar\Desktop\MakeYourAppMaterial\XYZReader\src\main\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from C:\Users\maneeshsagar\Desktop\MakeYourAppMaterial\XYZReader\src\main\AndroidManifest.xml:9:22-76
+application
+ADDED from C:\Users\maneeshsagar\Desktop\MakeYourAppMaterial\XYZReader\src\main\AndroidManifest.xml:11:5-46:19
+	android:label
+		ADDED from C:\Users\maneeshsagar\Desktop\MakeYourAppMaterial\XYZReader\src\main\AndroidManifest.xml:14:9-41
+	android:icon
+		ADDED from C:\Users\maneeshsagar\Desktop\MakeYourAppMaterial\XYZReader\src\main\AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from C:\Users\maneeshsagar\Desktop\MakeYourAppMaterial\XYZReader\src\main\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from C:\Users\maneeshsagar\Desktop\MakeYourAppMaterial\XYZReader\src\main\AndroidManifest.xml:15:9-43
+activity#com.example.xyzreader.ui.ArticleListActivity
+ADDED from C:\Users\maneeshsagar\Desktop\MakeYourAppMaterial\XYZReader\src\main\AndroidManifest.xml:17:9-24:20
+	android:label
+		ADDED from C:\Users\maneeshsagar\Desktop\MakeYourAppMaterial\XYZReader\src\main\AndroidManifest.xml:19:13-45
+	android:name
+		ADDED from C:\Users\maneeshsagar\Desktop\MakeYourAppMaterial\XYZReader\src\main\AndroidManifest.xml:18:13-51
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\maneeshsagar\Desktop\MakeYourAppMaterial\XYZReader\src\main\AndroidManifest.xml:20:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\maneeshsagar\Desktop\MakeYourAppMaterial\XYZReader\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from C:\Users\maneeshsagar\Desktop\MakeYourAppMaterial\XYZReader\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\maneeshsagar\Desktop\MakeYourAppMaterial\XYZReader\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\Users\maneeshsagar\Desktop\MakeYourAppMaterial\XYZReader\src\main\AndroidManifest.xml:22:27-74
+activity#com.example.xyzreader.ui.ArticleDetailActivity
+ADDED from C:\Users\maneeshsagar\Desktop\MakeYourAppMaterial\XYZReader\src\main\AndroidManifest.xml:26:9-37:20
+	android:parentActivityName
+		ADDED from C:\Users\maneeshsagar\Desktop\MakeYourAppMaterial\XYZReader\src\main\AndroidManifest.xml:28:13-65
+	android:name
+		ADDED from C:\Users\maneeshsagar\Desktop\MakeYourAppMaterial\XYZReader\src\main\AndroidManifest.xml:27:13-53
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:mimeType:vnd.android.cursor.item/vnd.com.example.xyzreader.items
+ADDED from C:\Users\maneeshsagar\Desktop\MakeYourAppMaterial\XYZReader\src\main\AndroidManifest.xml:29:13-33:29
+action#android.intent.action.VIEW
+ADDED from C:\Users\maneeshsagar\Desktop\MakeYourAppMaterial\XYZReader\src\main\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from C:\Users\maneeshsagar\Desktop\MakeYourAppMaterial\XYZReader\src\main\AndroidManifest.xml:30:25-66
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\maneeshsagar\Desktop\MakeYourAppMaterial\XYZReader\src\main\AndroidManifest.xml:31:17-76
+	android:name
+		ADDED from C:\Users\maneeshsagar\Desktop\MakeYourAppMaterial\XYZReader\src\main\AndroidManifest.xml:31:27-73
+data
+ADDED from C:\Users\maneeshsagar\Desktop\MakeYourAppMaterial\XYZReader\src\main\AndroidManifest.xml:32:17-100
+	android:mimeType
+		ADDED from C:\Users\maneeshsagar\Desktop\MakeYourAppMaterial\XYZReader\src\main\AndroidManifest.xml:32:23-97
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\maneeshsagar\Desktop\MakeYourAppMaterial\XYZReader\src\main\AndroidManifest.xml:34:13-36:59
+	android:value
+		ADDED from C:\Users\maneeshsagar\Desktop\MakeYourAppMaterial\XYZReader\src\main\AndroidManifest.xml:36:17-56
+	android:name
+		ADDED from C:\Users\maneeshsagar\Desktop\MakeYourAppMaterial\XYZReader\src\main\AndroidManifest.xml:35:17-63
+service#com.example.xyzreader.data.UpdaterService
+ADDED from C:\Users\maneeshsagar\Desktop\MakeYourAppMaterial\XYZReader\src\main\AndroidManifest.xml:39:9-40:40
+	android:exported
+		ADDED from C:\Users\maneeshsagar\Desktop\MakeYourAppMaterial\XYZReader\src\main\AndroidManifest.xml:40:13-37
+	android:name
+		ADDED from C:\Users\maneeshsagar\Desktop\MakeYourAppMaterial\XYZReader\src\main\AndroidManifest.xml:39:18-53
+provider#com.example.xyzreader.data.ItemsProvider
+ADDED from C:\Users\maneeshsagar\Desktop\MakeYourAppMaterial\XYZReader\src\main\AndroidManifest.xml:42:9-44:40
+	android:authorities
+		ADDED from C:\Users\maneeshsagar\Desktop\MakeYourAppMaterial\XYZReader\src\main\AndroidManifest.xml:43:13-56
+	android:exported
+		ADDED from C:\Users\maneeshsagar\Desktop\MakeYourAppMaterial\XYZReader\src\main\AndroidManifest.xml:44:13-37
+	android:name
+		ADDED from C:\Users\maneeshsagar\Desktop\MakeYourAppMaterial\XYZReader\src\main\AndroidManifest.xml:42:19-53
+uses-sdk
+INJECTED from C:\Users\maneeshsagar\Desktop\MakeYourAppMaterial\XYZReader\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\maneeshsagar\Desktop\MakeYourAppMaterial\XYZReader\src\main\AndroidManifest.xml
+INJECTED from C:\Users\maneeshsagar\Desktop\MakeYourAppMaterial\XYZReader\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\maneeshsagar\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\1e70047b5c49de43a9bd0283271b784a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\maneeshsagar\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\1e70047b5c49de43a9bd0283271b784a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.1.1] C:\Users\maneeshsagar\.gradle\caches\transforms-1\files-1.1\support-v13-27.1.1.aar\00b9786f6955851a1f4d5e0626db6c96\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.1.1] C:\Users\maneeshsagar\.gradle\caches\transforms-1\files-1.1\support-v13-27.1.1.aar\00b9786f6955851a1f4d5e0626db6c96\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\maneeshsagar\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\f2dc0ef36a8d62313bb92be17f645356\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\maneeshsagar\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\f2dc0ef36a8d62313bb92be17f645356\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\maneeshsagar\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\85e248dcc7ec323582f674571436a133\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\maneeshsagar\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\85e248dcc7ec323582f674571436a133\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:27.1.1] C:\Users\maneeshsagar\.gradle\caches\transforms-1\files-1.1\palette-v7-27.1.1.aar\1df83235ed74e3842dc7adaa541378f6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:27.1.1] C:\Users\maneeshsagar\.gradle\caches\transforms-1\files-1.1\palette-v7-27.1.1.aar\1df83235ed74e3842dc7adaa541378f6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\maneeshsagar\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\daba434b3cd81298cde3c06210159167\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\maneeshsagar\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\daba434b3cd81298cde3c06210159167\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\maneeshsagar\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\261316d5bf4fd3787ea7ccdecbe73c36\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\maneeshsagar\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\261316d5bf4fd3787ea7ccdecbe73c36\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\maneeshsagar\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\9ec6c5e084ab9b7bf4250b3a20e45158\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\maneeshsagar\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\9ec6c5e084ab9b7bf4250b3a20e45158\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\maneeshsagar\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\5617b0f084d81885924175bd607ee405\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\maneeshsagar\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\5617b0f084d81885924175bd607ee405\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\maneeshsagar\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\d18f5bfc912de509a9f572d309ec7150\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\maneeshsagar\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\d18f5bfc912de509a9f572d309ec7150\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\maneeshsagar\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\76fca40abcd232f36011f6006d86dabb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\maneeshsagar\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\76fca40abcd232f36011f6006d86dabb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\maneeshsagar\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\8188f3865092946a1cc1f958819ecb4f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\maneeshsagar\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\8188f3865092946a1cc1f958819ecb4f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\maneeshsagar\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\af9d0af8a092dba0bfc9493ecb704f44\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\maneeshsagar\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\af9d0af8a092dba0bfc9493ecb704f44\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\maneeshsagar\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\8bd569aef9645ec9e5bda9a9e798b81f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\maneeshsagar\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\8bd569aef9645ec9e5bda9a9e798b81f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\maneeshsagar\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\2ca4cb9b7c957e54033c42c9c7c81242\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\maneeshsagar\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\2ca4cb9b7c957e54033c42c9c7c81242\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\maneeshsagar\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7363b69a85ceb2cf766284837fcd4cd7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\maneeshsagar\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7363b69a85ceb2cf766284837fcd4cd7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\maneeshsagar\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\02308b1a72d4964bd382590df25e56ff\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\maneeshsagar\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\02308b1a72d4964bd382590df25e56ff\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\maneeshsagar\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\e07fc0fd548f63d0ff3b38bac9b9ffbf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\maneeshsagar\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\e07fc0fd548f63d0ff3b38bac9b9ffbf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\maneeshsagar\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b1b51ae4b430a6e0bf5a060015c425e5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\maneeshsagar\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b1b51ae4b430a6e0bf5a060015c425e5\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\maneeshsagar\Desktop\MakeYourAppMaterial\XYZReader\src\main\AndroidManifest.xml
+INJECTED from C:\Users\maneeshsagar\Desktop\MakeYourAppMaterial\XYZReader\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\maneeshsagar\Desktop\MakeYourAppMaterial\XYZReader\src\main\AndroidManifest.xml
+		ADDED from C:\Users\maneeshsagar\Desktop\MakeYourAppMaterial\XYZReader\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\maneeshsagar\Desktop\MakeYourAppMaterial\XYZReader\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\maneeshsagar\Desktop\MakeYourAppMaterial\XYZReader\src\main\AndroidManifest.xml
+		ADDED from C:\Users\maneeshsagar\Desktop\MakeYourAppMaterial\XYZReader\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\maneeshsagar\Desktop\MakeYourAppMaterial\XYZReader\src\main\AndroidManifest.xml

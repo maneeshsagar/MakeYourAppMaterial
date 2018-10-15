@@ -1,0 +1,35 @@
+
+
+<resources>
+
+    <style name="Theme.Bacon" parent="@style/Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="articleTitleStyle" parent="@style/TextAppearance.AppCompat.Subhead">
+        <item name="android:fontFamily">@font/rosario_regular</item>
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="articleSubTitleStyle" parent="@style/TextAppearance.AppCompat.Body1">
+        <item name="android:fontFamily"></item>
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="dateStyle" parent="@style/Base.TextAppearance.AppCompat.Small">
+        <item name="android:fontFamily">@font/rosario_regular</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="bodyStyle" parent="@style/Base.TextAppearance.AppCompat.Medium">
+        <item name="android:fontFamily">@font/rosario_regular</item>
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="Theme.Bacon.Detail">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+
+</resources>
